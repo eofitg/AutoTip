@@ -1,0 +1,11 @@
+[
+{
+  "modid": "autotip",
+  "name": "AutoTip",
+  "description": "Hypixel Auto Tip Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/eofitg/AutoTip",
+  "authorList": ["eofitg"]
+}
+]
