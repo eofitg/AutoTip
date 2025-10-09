@@ -83,6 +83,11 @@ public class AutoTip {
     }
 
     @SubscribeEvent
+    public void onServerDisconnect(FMLNetworkEvent.ClientDisconnectionFromServerEvent event) {
+        currentServer = "";
+    }
+
+    @SubscribeEvent
     public void onTick(TickEvent.ClientTickEvent event) {
         if (event.phase != TickEvent.Phase.START) return;
         if (mc == null || mc.thePlayer == null) return;
