@@ -1,5 +1,7 @@
 # Auto Tip
 
+![downloads](https://img.shields.io/github/downloads/eofitg/autotip/total.svg)
+
 `1.8.9-forge`
 
 [1.21 version](https://github.com/eofitg/ModernAutoTip/)
