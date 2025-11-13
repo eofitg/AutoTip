@@ -1,6 +1,8 @@
 # Auto Tip
 
-`1.8.9-forge-mod`
+`1.8.9-forge`
+
+[1.21 version](https://github.com/eofitg/ModernAutoTip/)
 
 ## Commands
 
